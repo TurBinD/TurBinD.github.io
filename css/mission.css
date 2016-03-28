@@ -1,7 +1,7 @@
 .version.mission /* version checker */
 {
-	color: #000013;
-	background-color: #B8E1A0;
+	color: #00000A;
+	background-color: #CD8D76;
 }
 
 #muse_css_mq
@@ -347,20 +347,20 @@
 #u996
 {
 	z-index: 31;
-	width: 189px;
+	width: 210px;
 	min-height: 24px;
-	margin-left: 751px;
-	margin-top: 7px;
+	margin-left: 730px;
+	margin-top: 8px;
 	position: relative;
 }
 
 #u1009-4
 {
 	z-index: 32;
-	min-height: 21px;
-	margin-top: 1px;
+	min-height: 17px;
+	margin-top: 4px;
 	position: relative;
-	width: 53.44%;
+	width: 22.92%;
 	margin-left: 2.09%;
 }
 

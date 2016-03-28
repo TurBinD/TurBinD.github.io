@@ -1,7 +1,7 @@
 .version.why_wind /* version checker */
 {
-	color: #0000F2;
-	background-color: #FA64CC;
+	color: #0000EB;
+	background-color: #8F081A;
 }
 
 #muse_css_mq
@@ -347,20 +347,20 @@
 #u996
 {
 	z-index: 31;
-	width: 189px;
+	width: 210px;
 	min-height: 24px;
-	margin-left: 751px;
-	margin-top: 7px;
+	margin-left: 730px;
+	margin-top: 8px;
 	position: relative;
 }
 
 #u1009-4
 {
 	z-index: 32;
-	min-height: 21px;
-	margin-top: 1px;
+	min-height: 17px;
+	margin-top: 4px;
 	position: relative;
-	width: 53.44%;
+	width: 22.92%;
 	margin-left: 2.09%;
 }
 

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #18449A;
+	color: #00000A;
+	background-color: #7EE15A;
 }
 
 #muse_css_mq
@@ -721,20 +721,20 @@
 #u996
 {
 	z-index: 31;
-	width: 189px;
+	width: 210px;
 	min-height: 24px;
-	margin-left: 751px;
-	margin-top: 7px;
+	margin-left: 730px;
+	margin-top: 8px;
 	position: relative;
 }
 
 #u1009-4
 {
 	z-index: 32;
-	width: 513px;
-	min-height: 21px;
+	width: 220px;
+	min-height: 17px;
 	margin-left: 20px;
-	margin-top: 1px;
+	margin-top: 4px;
 	position: relative;
 }
 
