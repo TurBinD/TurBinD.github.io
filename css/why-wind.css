@@ -1,7 +1,7 @@
 .version.why_wind /* version checker */
 {
-	color: #0000EB;
-	background-color: #8F081A;
+	color: #0000F9;
+	background-color: #FE4D61;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 542px;
+	min-height: 715px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -316,22 +316,300 @@
 	min-height: 237.93033310219064px;
 }
 
-#u1386-5
+#accordionu1608
 {
 	z-index: 36;
-	min-height: 127px;
-	background-color: #E5E5E5;
-	background-color: rgba(223,223,223,0.81);
-	color: #006837;
-	line-height: 43px;
-	text-align: center;
-	font-size: 36px;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	margin-top: 33px;
+	-pie-box-shadow: none;
+	box-shadow: 5px 5px 7px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	margin-top: 41px;
 	position: relative;
-	width: 56.57%;
-	margin-left: 21.78%;
-	-pie-background: rgba(223,223,223,0.81);
+	width: 95.84%;
+	margin-left: 1.98%;
+}
+
+#u1617
+{
+	z-index: 37;
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+}
+
+#u1618-4
+{
+	z-index: 38;
+	min-height: 24px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	width: 100%;
+}
+
+#u1618-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1618-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1619
+{
+	z-index: 42;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 21px;
+	position: relative;
+	width: 100%;
+}
+
+#u1620-4
+{
+	z-index: 43;
+	min-height: 151px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #999999;
+	font-size: 16px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	width: 54.24%;
+	left: 1.74%;
+}
+
+#u1805
+{
+	z-index: 47;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	width: 38.27%;
+	left: 59.35%;
+}
+
+#u1613
+{
+	z-index: 49;
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+}
+
+#u1616-4
+{
+	z-index: 50;
+	min-height: 24px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	width: 100%;
+}
+
+#u1616-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1616-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1614
+{
+	z-index: 54;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 16px;
+	position: relative;
+	width: 100%;
+}
+
+#u1615-4
+{
+	z-index: 55;
+	min-height: 105px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #999999;
+	font-size: 16px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	width: 57.07%;
+	left: 1.85%;
+}
+
+#u1773
+{
+	z-index: 59;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 30px;
+	width: 33.05%;
+	left: 62.94%;
+}
+
+#u1609
+{
+	z-index: 61;
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+}
+
+#u1612-4
+{
+	z-index: 62;
+	min-height: 24px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #DEDEDE;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+	width: 100%;
+}
+
+#u1612-4:hover
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1612-4:active
+{
+	background-color: #F2F2F2;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1618-4.AccordionPanelTabOpen,#u1616-4.AccordionPanelTabOpen,#u1612-4.AccordionPanelTabOpen
+{
+	background-color: #FFFFFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 24px;
+	width: 100%;
+	margin: 0px 0px 0px 0%;
+}
+
+#u1618-4.AccordionPanelTabOpen p,#u1616-4.AccordionPanelTabOpen p,#u1612-4.AccordionPanelTabOpen p
+{
+	color: #006837;
+	visibility: inherit;
+	font-size: 24px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+}
+
+#u1618-3,#u1616-3,#u1612-3
+{
+	line-height: 24px;
+	color: #006837;
+	font-size: 24px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	margin-left: 10px;
+}
+
+#u1610
+{
+	z-index: 66;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 31px;
+	position: relative;
+	width: 100%;
+}
+
+#u1611-4
+{
+	z-index: 67;
+	min-height: 196px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 22px;
+	color: #999999;
+	font-size: 16px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	width: 54.14%;
+	left: 1.96%;
+}
+
+#u1693
+{
+	z-index: 71;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	width: 39.46%;
+	left: 58.05%;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
 }
 
 #u995
@@ -340,7 +618,7 @@
 	width: 123px;
 	min-height: 26px;
 	margin-left: 817px;
-	margin-top: 65px;
+	margin-top: 218px;
 	position: relative;
 }
 
@@ -350,7 +628,7 @@
 	width: 210px;
 	min-height: 24px;
 	margin-left: 730px;
-	margin-top: 8px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -358,10 +636,11 @@
 {
 	z-index: 32;
 	min-height: 17px;
-	margin-top: 4px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	width: 22.92%;
-	margin-left: 2.09%;
+	width: 15.63%;
+	margin-left: 42.19%;
 }
 
 .html
@@ -376,7 +655,7 @@ body
 	min-width: 320px;
 }
 
-#u597_img
+#u1805_img,#u1773_img,#u1693_img,#u597_img
 {
 	width: 100%;
 }

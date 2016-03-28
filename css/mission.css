@@ -1,7 +1,7 @@
 .version.mission /* version checker */
 {
-	color: #00000A;
-	background-color: #CD8D76;
+	color: #0000FC;
+	background-color: #F9A963;
 }
 
 #muse_css_mq
@@ -316,22 +316,70 @@
 	min-height: 237.93033310219064px;
 }
 
-#u1383-5
+#u1946
 {
 	z-index: 36;
-	min-height: 127px;
-	background-color: #E5E5E5;
-	background-color: rgba(223,223,223,0.81);
-	color: #006837;
-	line-height: 43px;
-	text-align: center;
-	font-size: 36px;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	margin-top: 33px;
+	background-color: #E3E3E3;
+	background-color: rgba(223,223,223,0.85);
+	border-radius: 50px;
+	padding-top: 8px;
+	padding-bottom: 7.2000000000000455px;
+	margin-top: 25px;
 	position: relative;
-	width: 56.57%;
-	margin-left: 21.78%;
-	-pie-background: rgba(223,223,223,0.81);
+	width: 95.84%;
+	margin-left: 2.09%;
+	-pie-background: rgba(223,223,223,0.85);
+}
+
+#u1383-8
+{
+	z-index: 37;
+	min-height: 127px;
+	background-color: transparent;
+	color: #006837;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	width: 59.03%;
+	margin-left: 20.44%;
+}
+
+#u1383-2
+{
+	font-size: 36px;
+	line-height: 43px;
+}
+
+#u1383-3,#u1383-5
+{
+	font-size: 24px;
+	line-height: 29px;
+}
+
+#u1383-6
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u1949-5
+{
+	z-index: 45;
+	min-height: 383px;
+	background-color: transparent;
+	color: #000000;
+	margin-top: 39px;
+	position: relative;
+	width: 59.03%;
+	margin-left: 20.44%;
+}
+
+#u1949-2
+{
+	font-size: 18px;
+	text-align: center;
+	line-height: 22px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 }
 
 #u995
@@ -340,7 +388,7 @@
 	width: 123px;
 	min-height: 26px;
 	margin-left: 817px;
-	margin-top: 65px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -350,7 +398,7 @@
 	width: 210px;
 	min-height: 24px;
 	margin-left: 730px;
-	margin-top: 8px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -358,10 +406,11 @@
 {
 	z-index: 32;
 	min-height: 17px;
-	margin-top: 4px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	width: 22.92%;
-	margin-left: 2.09%;
+	width: 15.63%;
+	margin-left: 42.19%;
 }
 
 .html
