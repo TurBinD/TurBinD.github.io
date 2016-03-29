@@ -1,7 +1,7 @@
 .version.mission /* version checker */
 {
-	color: #0000FC;
-	background-color: #F9A963;
+	color: #000010;
+	background-color: #E45DBE;
 }
 
 #muse_css_mq
@@ -28,7 +28,7 @@
 #u618
 {
 	z-index: 2;
-	min-height: 237.93033310219064px;
+	min-height: 237.93033310219062px;
 	padding-bottom: 0px;
 }
 
@@ -313,7 +313,7 @@
 #u618-bw
 {
 	z-index: 2;
-	min-height: 237.93033310219064px;
+	min-height: 237.93033310219062px;
 }
 
 #u1946
