@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459297255200">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459298657693">
   <folder name="assets">
     <file name="flyer-2.pdf" crc="341050644" seo="true" mt="1457324793000"/>
   </folder>
@@ -17,14 +17,15 @@
     <file name="screen shot 2016-03-27 at 95805 pm.jpg" crc="3812087590" seo="true" ref="learn-more"/>
     <file name="flyer2.jpg" crc="3758835153" seo="true" ref="index"/>
     <file name="turbine.png" crc="135289730" seo="true" ref="learn-more"/>
+    <file name="dgclogo20152.png" crc="4208244930" seo="true" ref="index:mission:why-wind:learn-more"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="334330499" ref="index"/>
-    <file name="master_turbind.css" crc="3875545025" ref="why-wind:mission:learn-more:index"/>
-    <file name="why-wind.css" crc="111339821" ref="why-wind"/>
-    <file name="mission.css" crc="283401662" ref="mission"/>
-    <file name="learn-more.css" crc="131694555" ref="learn-more"/>
+    <file name="index.css" crc="4179526407" ref="index"/>
+    <file name="master_turbind.css" crc="90120440" ref="why-wind:mission:learn-more:index"/>
+    <file name="why-wind.css" crc="156040110" ref="why-wind"/>
+    <file name="mission.css" crc="328723208" ref="mission"/>
+    <file name="learn-more.css" crc="4099959719" ref="learn-more"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:mission:why-wind:learn-more"/>
@@ -41,8 +42,8 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:mission:why-wind:learn-more"/>
     <file name="musewpdisclosure.js" crc="3974494556" ref="learn-more"/>
   </folder>
-  <file name="index.html" crc="4012576893" seo="true" mt="1459297253946" redirect="true"/>
-  <file name="mission.html" crc="3932381159" seo="true" mt="1459297253946" redirect="true"/>
-  <file name="why-wind.html" crc="4066753529" seo="true" mt="1459297253946" redirect="true"/>
-  <file name="learn-more.html" crc="242547818" seo="true" mt="1459297253946" redirect="true"/>
+  <file name="index.html" crc="3974070215" seo="true" mt="1459298656118" redirect="true"/>
+  <file name="mission.html" crc="136586672" seo="true" mt="1459298656118" redirect="true"/>
+  <file name="why-wind.html" crc="3884532984" seo="true" mt="1459298656118" redirect="true"/>
+  <file name="learn-more.html" crc="169866359" seo="true" mt="1459298656118" redirect="true"/>
 </manifest>

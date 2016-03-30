@@ -92,11 +92,6 @@
 	font-weight: bold;
 }
 
-#u597,#u482,#u489,#u541,#u569
-{
-	background-color: transparent;
-}
-
 #u570
 {
 	background-color: #DFDFDF;
@@ -135,10 +130,8 @@
 	cursor: pointer;
 }
 
-#menuu481,#u995,#u996
+#u597,#u482,#u489,#u541,#u569,#u2668
 {
-	border-width: 0px;
-	border-color: transparent;
 	background-color: transparent;
 }
 
@@ -149,4 +142,10 @@
 	line-height: 14px;
 }
 
+#menuu481,#u995,#u996
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
 

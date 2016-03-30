@@ -1,7 +1,7 @@
 .version.mission /* version checker */
 {
-	color: #000010;
-	background-color: #E45DBE;
+	color: #000013;
+	background-color: #97EB08;
 }
 
 #muse_css_mq
@@ -12,17 +12,23 @@
 #page
 {
 	z-index: 1;
-	min-height: 542px;
+	min-height: 562px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-top: 20px;
 	padding-bottom: 20px;
 	width: 100%;
 	max-width: 960px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#pu618
+{
+	margin-right: -10000px;
+	margin-top: 20px;
+	width: 100%;
 }
 
 #u618
@@ -318,7 +324,7 @@
 
 #u1946
 {
-	z-index: 36;
+	z-index: 38;
 	background-color: #E3E3E3;
 	background-color: rgba(223,223,223,0.85);
 	border-radius: 50px;
@@ -333,7 +339,7 @@
 
 #u1383-8
 {
-	z-index: 37;
+	z-index: 39;
 	min-height: 127px;
 	background-color: transparent;
 	color: #006837;
@@ -364,7 +370,7 @@
 
 #u1949-5
 {
-	z-index: 45;
+	z-index: 47;
 	min-height: 383px;
 	background-color: transparent;
 	color: #000000;
@@ -382,13 +388,42 @@
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 }
 
+#u2668
+{
+	z-index: 36;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	width: 10.21%;
+	left: 3.65%;
+}
+
+#u1009-4
+{
+	z-index: 32;
+	min-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	width: 15.63%;
+	left: 42.19%;
+}
+
+#pu995
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	margin-left: 730px;
+}
+
 #u995
 {
 	z-index: 30;
 	width: 123px;
 	min-height: 26px;
-	margin-left: 817px;
-	margin-top: 15px;
+	margin-left: 87px;
 	position: relative;
 }
 
@@ -397,20 +432,8 @@
 	z-index: 31;
 	width: 210px;
 	min-height: 24px;
-	margin-left: 730px;
 	margin-top: 15px;
 	position: relative;
-}
-
-#u1009-4
-{
-	z-index: 32;
-	min-height: 17px;
-	top: -4px;
-	margin-bottom: -4px;
-	position: relative;
-	width: 15.63%;
-	margin-left: 42.19%;
 }
 
 .html
@@ -425,7 +448,12 @@ body
 	min-width: 320px;
 }
 
-#u597_img
+.verticalspacer
+{
+	min-height: 1px;
+}
+
+#u597_img,#u2668_img
 {
 	width: 100%;
 }
