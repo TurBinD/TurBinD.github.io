@@ -1,7 +1,7 @@
 .version.learn_more /* version checker */
 {
-	color: #0000F4;
-	background-color: #606BA7;
+	color: #000007;
+	background-color: #48222D;
 }
 
 #muse_css_mq
@@ -662,12 +662,12 @@
 	border-width: 1px;
 	border-color: #FFFFFF;
 	background-color: #FFFFFF;
-	padding-bottom: 31px;
+	padding-bottom: 53px;
 	position: relative;
 	width: 100%;
 }
 
-#u2137-4
+#u2137-9
 {
 	z-index: 81;
 	min-height: 196px;
@@ -687,13 +687,19 @@
 
 #u2135
 {
-	z-index: 85;
+	z-index: 90;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 22px;
 	width: 39.46%;
 	left: 58.05%;
+}
+
+#u2135_img
+{
+	padding-top: 11px;
+	width: 100%;
 }
 
 .AccordionPanelTab /* accordion */
@@ -766,7 +772,7 @@ body
 	min-height: 1px;
 }
 
-#u2550_img,#u2130_img,#u2141_img,#u2135_img,#u597_img,#u2668_img
+#u2550_img,#u2130_img,#u2141_img,#u597_img,#u2668_img
 {
 	width: 100%;
 }
