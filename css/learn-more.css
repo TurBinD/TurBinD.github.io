@@ -1,7 +1,7 @@
 .version.learn_more /* version checker */
 {
-	color: #000007;
-	background-color: #48222D;
+	color: #0000FA;
+	background-color: #53B75B;
 }
 
 #muse_css_mq
@@ -398,8 +398,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #999999;
+	line-height: 22px;
 	font-size: 16px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -481,8 +481,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #999999;
+	line-height: 22px;
 	font-size: 16px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -564,8 +564,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #999999;
+	line-height: 22px;
 	font-size: 16px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -648,8 +648,8 @@
 
 #u2532-3,#u2127-3,#u2139-3,#u2133-3
 {
-	line-height: 24px;
 	color: #006837;
+	line-height: 24px;
 	font-size: 24px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-left: 10px;
@@ -674,8 +674,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
 	color: #999999;
+	line-height: 22px;
 	font-size: 16px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -757,7 +757,7 @@
 
 .html
 {
-	background: #FFFFFF url("../images/bcwf5.jpg") no-repeat left top scroll;
+	background: #FFFFFF url("../images/blurred-background-green2.jpg") no-repeat left top scroll;
 	background-size: cover;
 }
 

@@ -1,7 +1,7 @@
 .version.mission /* version checker */
 {
-	color: #000013;
-	background-color: #97EB08;
+	color: #0000ED;
+	background-color: #8277C7;
 }
 
 #muse_css_mq
@@ -438,7 +438,7 @@
 
 .html
 {
-	background: #FFFFFF url("../images/bcwf5.jpg") no-repeat left top scroll;
+	background: #FFFFFF url("../images/blurred-background-green2.jpg") no-repeat left top scroll;
 	background-size: cover;
 }
 

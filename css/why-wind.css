@@ -1,7 +1,7 @@
 .version.why_wind /* version checker */
 {
-	color: #000009;
-	background-color: #4CFBAE;
+	color: #0000E1;
+	background-color: #1A4D53;
 }
 
 #muse_css_mq
@@ -460,7 +460,7 @@
 
 .html
 {
-	background: #FFFFFF url("../images/bcwf5.jpg") no-repeat left top scroll;
+	background: #FFFFFF url("../images/blurred-background-green2.jpg") no-repeat left top scroll;
 	background-size: cover;
 }
 

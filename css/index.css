@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #4DB888;
+	color: #00000B;
+	background-color: #7247AE;
 }
 
 #muse_css_mq
@@ -26,6 +26,7 @@
 #pu618
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 20px;
 	margin-left: -100px;
@@ -344,8 +345,8 @@
 {
 	z-index: 38;
 	width: 0.01px;
-	height: 627px;
-	margin-left: 120px;
+	height: 587px;
+	margin-left: 121px;
 	margin-top: 12px;
 	position: relative;
 }
@@ -356,7 +357,6 @@
 	width: 919px;
 	height: 587px;
 	background-color: transparent;
-	left: 1px;
 }
 
 #u828popup
@@ -473,190 +473,6 @@
 	padding: 230px 369px 229px 370px;
 }
 
-#u838
-{
-	position: absolute;
-	width: 349px;
-	background-color: transparent;
-	top: 588px;
-}
-
-#u838popup
-{
-	z-index: 52;
-}
-
-#u841-4
-{
-	z-index: 53;
-	width: 329px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: left;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u1065-4
-{
-	z-index: 57;
-	width: 329px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: left;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u1085-4
-{
-	z-index: 61;
-	width: 329px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: left;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u1105-4
-{
-	z-index: 65;
-	width: 329px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: left;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u1125-4
-{
-	z-index: 69;
-	width: 329px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: left;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u1195-4
-{
-	z-index: 73;
-	width: 329px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: left;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u842-4
-{
-	position: absolute;
-	width: 48px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	text-align: center;
-	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 587px;
-	left: 822px;
-}
-
-#u842-4popup
-{
-	z-index: 77;
-}
-
-#u835-4
-{
-	position: absolute;
-	width: 10px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	text-align: center;
-	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 587px;
-	left: 792px;
-}
-
-#u835-4popup
-{
-	z-index: 81;
-}
-
-#u842,#u835
-{
-	color: #999999;
-}
-
-#u819-4
-{
-	position: absolute;
-	width: 10px;
-	min-height: 20px;
-	border-width: 0px;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	padding: 10px;
-	line-height: 20px;
-	text-align: center;
-	color: #999999;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 587px;
-	left: 890px;
-}
-
-#u819-4popup
-{
-	z-index: 85;
-}
-
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
 {
 	cursor: pointer;
@@ -669,30 +485,30 @@
 
 #u1246
 {
-	z-index: 89;
+	z-index: 52;
 	width: 920px;
 	background-color: #E3E3E3;
 	background-color: rgba(223,223,223,0.85);
-	padding-bottom: 19px;
+	padding-bottom: 18px;
 	margin-left: 120px;
-	margin-top: 27px;
+	margin-top: 66px;
 	position: relative;
 	-pie-background: rgba(223,223,223,0.85);
 }
 
 #u1249-7
 {
-	z-index: 90;
+	z-index: 53;
 	width: 767px;
 	min-height: 306px;
 	background-color: transparent;
-	text-align: center;
 	color: #006837;
+	text-align: center;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
-	left: 76px;
+	margin-top: 19px;
+	left: 77px;
 }
 
 #u1249-2
@@ -764,7 +580,7 @@
 
 .html
 {
-	background: #009245 url("../images/bcwf5.jpg") no-repeat center center scroll;
+	background: #009245 url("../images/blurred-background-green.jpg") no-repeat center center scroll;
 	background-size: cover;
 }
 

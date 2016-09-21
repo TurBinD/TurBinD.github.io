@@ -1,49 +1,47 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1459635024872">
-  <folder name="assets">
-    <file name="flyer-2.pdf" crc="341050644" seo="true" mt="1457324793000"/>
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1474469361873">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_turbind.css" crc="90120440" ref="why-wind:learn-more:mission:index"/>
+    <file name="why-wind.css" crc="3776597331" ref="why-wind"/>
+    <file name="learn-more.css" crc="4199790427" ref="learn-more"/>
+    <file name="mission.css" crc="3984750535" ref="mission"/>
+    <file name="index.css" crc="192038830" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:mission:why-wind:learn-more"/>
+    <file name="museutils.js" crc="3790713428" ref="index:mission:why-wind:learn-more"/>
+    <file name="whatinput.js" crc="84559013" ref="index:mission:why-wind:learn-more"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:mission:why-wind:learn-more"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:mission:why-wind:learn-more"/>
+    <file name="webpro.js" crc="329496574" ref="index:learn-more"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index:mission:why-wind"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:mission:why-wind:learn-more"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:mission:why-wind:learn-more"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="learn-more"/>
   </folder>
   <folder name="images">
     <file name="turbind logo-2.jpg" crc="3945252263" seo="true" ref="index:mission:why-wind:learn-more"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="wind turbine render.jpg" crc="162564642" seo="true" ref="index"/>
-    <file name="dgclogo2015.png" crc="4208244930" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="bcwf5.jpg" crc="364532706" ref="index:mission:why-wind:learn-more"/>
-    <file name="windfarm_2615452b.jpg" crc="66785555" seo="true" ref="learn-more"/>
-    <file name="13.jpg" crc="432385128" seo="true" ref="learn-more"/>
     <file name="flyer2.jpg" crc="3758835153" seo="true" ref="index"/>
-    <file name="turbine.png" crc="135289730" seo="true" ref="learn-more"/>
-    <file name="dgclogo20152.png" crc="4208244930" seo="true" ref="index:mission:why-wind:learn-more"/>
-    <file name="img_2261.jpg" crc="4081497189" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="img_2268.jpg" crc="243579484" seo="true" ref="index"/>
     <file name="1125x1500jpeg3f4e8d326317411f88a31f00496f805c-crop-u1073.jpg" crc="38079784" ref="index"/>
+    <file name="wind turbine render.jpg" crc="162564642" seo="true" ref="index"/>
+    <file name="img_2261.jpg" crc="4081497189" seo="true" ref="index"/>
+    <file name="dgclogo2015.png" crc="4208244930" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dgclogo20152.png" crc="4208244930" seo="true" ref="index:mission:why-wind:learn-more"/>
+    <file name="blurred-background-green.jpg" crc="76483633" ref="index"/>
+    <file name="blurred-background-green2.jpg" crc="76483633" ref="mission:why-wind:learn-more"/>
+    <file name="turbine.png" crc="135289730" seo="true" ref="learn-more"/>
+    <file name="windfarm_2615452b.jpg" crc="66785555" seo="true" ref="learn-more"/>
+    <file name="13.jpg" crc="432385128" seo="true" ref="learn-more"/>
     <file name="screen shot 2016-03-27 at 95805 pm-crop-u2135.jpg" crc="4005425848" ref="learn-more"/>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="273528968" ref="index"/>
-    <file name="master_turbind.css" crc="90120440" ref="why-wind:mission:learn-more:index"/>
-    <file name="why-wind.css" crc="156040110" ref="why-wind"/>
-    <file name="mission.css" crc="328723208" ref="mission"/>
-    <file name="learn-more.css" crc="122167853" ref="learn-more"/>
-  </folder>
-  <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:mission:why-wind:learn-more"/>
-    <file name="museutils.js" crc="531812214" ref="index:mission:why-wind:learn-more"/>
-    <file name="whatinput.js" crc="84559013" ref="index:mission:why-wind:learn-more"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:mission:why-wind:learn-more"/>
-    <file name="jquery.musemenu.js" crc="3902934130" ref="index:mission:why-wind:learn-more"/>
-    <file name="webpro.js" crc="4156477058" ref="index:learn-more"/>
-    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
-    <file name="touchswipe.js" crc="4174436727" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index:mission:why-wind"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index:mission:why-wind:learn-more"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:mission:why-wind:learn-more"/>
-    <file name="musewpdisclosure.js" crc="3974494556" ref="learn-more"/>
-  </folder>
-  <file name="index.html" crc="4099186183" seo="true" mt="1459635023561" redirect="true"/>
-  <file name="mission.html" crc="136586672" seo="true" mt="1459635023561" redirect="true"/>
-  <file name="why-wind.html" crc="3884532984" seo="true" mt="1459635023561" redirect="true"/>
-  <file name="learn-more.html" crc="418383736" seo="true" mt="1459635023561" redirect="true"/>
+  <file name="index.html" crc="3955940375" seo="true" mt="1474469144542" redirect="true"/>
+  <file name="mission.html" crc="323988740" seo="true" mt="1474468934400" redirect="true"/>
+  <file name="why-wind.html" crc="4000715729" seo="true" mt="1474468934400" redirect="true"/>
+  <file name="learn-more.html" crc="4133826303" seo="true" mt="1474468934400" redirect="true"/>
 </manifest>
