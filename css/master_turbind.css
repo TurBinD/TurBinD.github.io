@@ -1,59 +1,14 @@
-#u618
-{
-	background-color: #FFFFFF;
-}
-
-#u483,#u490,#u542,#u570
-{
-	background-color: #DFDFDF;
-}
-
-#u483:active,#u490:active,#u542:active,#u570:active
-{
-	background-color: #6B6B6B;
-}
-
-#u483:hover,#u483.MuseMenuActive,#u490:hover,#u490.MuseMenuActive,#u542:hover,#u542.MuseMenuActive,#u570:hover,#u570.MuseMenuActive
-{
-	background-color: #999999;
-}
-
-#u485-4,#u493-4,#u543-4,#u573-4
-{
-	font-size: 18px;
-	line-height: 22px;
-	text-align: center;
-	border-color: transparent;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	border-width: 0px;
-	color: #006837;
-	background-color: transparent;
-	font-weight: bold;
-}
-
-.MenuItem
-{
-	cursor: pointer;
-}
-
-#u597,#u482,#u489,#u541,#u569,#u2668
+#u4303
 {
 	background-color: transparent;
 }
 
 #u1009-4
 {
-	font-size: 12px;
+	background-color: transparent;
 	line-height: 14px;
-	background-color: transparent;
+	font-size: 12px;
+	color: #FFFFFF;
 }
-
-#menuu481,#u995,#u996
-{
-	border-width: 0px;
-	background-color: transparent;
-	border-color: transparent;
-}
-
 
 
