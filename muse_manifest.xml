@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1475815689604">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1475815929452">
   <folder name="css">
     <file name="site_global.css" crc="511375693"/>
-    <file name="master_turbind.css" crc="4017067357" ref="index"/>
-    <file name="index.css" crc="4045115252" ref="index"/>
+    <file name="master_turbind.css" crc="30322836" ref="index"/>
+    <file name="index.css" crc="3949973818" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -15,5 +15,5 @@
     <file name="turbind logo draft 2-crop-u4303.jpg" crc="4023653963" ref="index"/>
     <file name="photo-1474183725112-79b6800d89a0.jpg" crc="42072079" ref="index"/>
   </folder>
-  <file name="index.html" crc="4083108857" seo="true" mt="1475815416629" redirect="true"/>
+  <file name="index.html" crc="165893534" seo="true" mt="1475815906873" redirect="true"/>
 </manifest>
