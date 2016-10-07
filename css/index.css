@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #702BDC;
+	color: #0000F1;
+	background-color: #1B8F74;
 }
 
 #muse_css_mq
@@ -39,7 +39,7 @@
 
 #u4529
 {
-	z-index: 17;
+	z-index: 21;
 	min-height: 158px;
 	border-style: solid;
 	border-width: 1px;
@@ -50,7 +50,7 @@
 
 #u4535-7
 {
-	z-index: 19;
+	z-index: 23;
 	min-height: 127px;
 	background-color: transparent;
 	color: #006837;
@@ -61,6 +61,12 @@
 	margin-top: -1px;
 	width: 58.34%;
 	left: 20.73%;
+}
+
+#u4535-2
+{
+	font-size: 36px;
+	line-height: 43px;
 }
 
 .js body
@@ -75,7 +81,7 @@
 
 #u4529-bw
 {
-	z-index: 17;
+	z-index: 21;
 	min-height: 158px;
 	margin-top: 319px;
 }
@@ -83,7 +89,7 @@
 #u4526
 {
 	z-index: 8;
-	min-height: 209px;
+	min-height: 207px;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #FFFFFF;
@@ -98,7 +104,7 @@
 	width: 100%;
 }
 
-#u4523-8
+#u4523-12
 {
 	z-index: 9;
 	min-height: 127px;
@@ -108,41 +114,55 @@
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: -1px;
+	margin-top: 12px;
 	width: 58.34%;
 	left: 20.73%;
 }
 
-#u4535-2,#u4523-2
+#u4523-2,#u4523-3,#u4523-8
 {
-	font-size: 36px;
-	line-height: 43px;
+	font-size: 30px;
+	line-height: 36px;
 }
 
-#u4535-3,#u4535-5,#u4523-3,#u4523-5
+#u4535-3,#u4535-5,#u4523-9
 {
 	font-size: 24px;
 	line-height: 29px;
 }
 
-#u4523-6
+#u4523-10
 {
 	font-size: 18px;
 	line-height: 22px;
 }
 
+#u4538
+{
+	z-index: 30;
+	width: 116px;
+	min-height: 39px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 43.86%;
+}
+
 #u4526-bw
 {
 	z-index: 8;
-	min-height: 209px;
+	min-height: 207px;
 	margin-top: 255px;
 }
 
 #u4532
 {
-	z-index: 18;
+	z-index: 22;
 	height: 31px;
-	margin-top: 130px;
+	margin-top: 107px;
 	position: relative;
 	width: 100%;
 }
