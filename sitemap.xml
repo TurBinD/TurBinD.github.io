@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://index.html/index.html</loc>
-    <lastmod>2016-10-07</lastmod>
+    <loc>http://turbind.github.io/index.html</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/turbind%20logo%20white%20transparent.png</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/park2.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/photo-1432821596592-e2c18b78144f.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/turbind%20example.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/ryan.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/alex.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.github.io/images/drea.jpg</loc>
+    <lastmod>2016-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
