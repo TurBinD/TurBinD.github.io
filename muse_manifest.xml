@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="turbind.github.io" resolutions="1x" timestamp="1476656491721">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="turbind.github.io" resolutions="1x" timestamp="1478403385421">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="350318633" ref="index"/>
-    <file name="nomq_index.css" crc="367113810" ref="index"/>
+    <file name="index.css" crc="4153539043" ref="index"/>
+    <file name="nomq_index.css" crc="190984987" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -11,77 +11,23 @@
     <file name="museconfig.js" crc="169177150" ref="index"/>
     <file name="pie.js" crc="3831537696" ref="index"/>
     <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
     <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
     <file name="turbind example.jpg" crc="4278931100" seo="true" ref="index"/>
-    <file name="u121-8.png" crc="121148632" ref="index"/>
     <file name="turbind logo white transparent.png" crc="393882308" seo="true" ref="index"/>
     <file name="park2.jpg" crc="383156050" seo="true" ref="index"/>
-    <file name="u253-22.png" crc="4092950202" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u2236.png" crc="4199363413" ref="index"/>
-    <file name="u2236-r.png" crc="305075103" ref="index"/>
-    <file name="u2225-4.png" crc="4294663459" ref="index"/>
     <file name="photo-1432821596592-e2c18b78144f.jpg" crc="256200745" seo="true" ref="index"/>
-    <file name="u2729-8.png" crc="3943681023" ref="index"/>
-    <file name="u2734-8.png" crc="296148503" ref="index"/>
-    <file name="u2743-4.png" crc="19948593" ref="index"/>
-    <file name="u1236-4.png" crc="4204830649" ref="index"/>
     <file name="drea.jpg" crc="3854096455" seo="true" ref="index"/>
     <file name="ryan.jpg" crc="419972543" seo="true" ref="index"/>
     <file name="alex.jpg" crc="241280752" seo="true" ref="index"/>
-    <file name="u2794-6.png" crc="28591499" ref="index"/>
-    <file name="u2808-6.png" crc="4154466095" ref="index"/>
-    <file name="u2817-6.png" crc="4082267269" ref="index"/>
-    <file name="u223-4.png" crc="3916554463" ref="index"/>
-    <file name="u217-4.png" crc="3857800473" ref="index"/>
-    <file name="u199-4.png" crc="4273022309" ref="index"/>
-    <file name="u173.png" crc="378681346" ref="index"/>
-    <file name="u173-r.png" crc="4088095910" ref="index"/>
-    <file name="u167.png" crc="13074794" ref="index"/>
-    <file name="u167-r.png" crc="3989897650" ref="index"/>
-    <file name="u2729-82.png" crc="3943681023" ref="index"/>
-    <file name="u2734-82.png" crc="149944026" ref="index"/>
-    <file name="u2794-62.png" crc="3876834716" ref="index"/>
-    <file name="u2808-62.png" crc="68464603" ref="index"/>
-    <file name="u2817-62.png" crc="4113038524" ref="index"/>
-    <file name="u22362.png" crc="4015936089" ref="index"/>
-    <file name="u2236-r2.png" crc="4006965152" ref="index"/>
-    <file name="u223-42.png" crc="4007146092" ref="index"/>
-    <file name="u217-42.png" crc="4045532547" ref="index"/>
-    <file name="u199-42.png" crc="4077290778" ref="index"/>
-    <file name="u253-222.png" crc="4134603254" ref="index"/>
-    <file name="u2225-42.png" crc="4213185183" ref="index"/>
-    <file name="u121-82.png" crc="381166369" ref="index"/>
-    <file name="u2743-42.png" crc="221676654" ref="index"/>
-    <file name="u1732.png" crc="172970735" ref="index"/>
-    <file name="u173-r2.png" crc="4228338694" ref="index"/>
-    <file name="u1672.png" crc="3984146893" ref="index"/>
-    <file name="u167-r2.png" crc="405587554" ref="index"/>
-    <file name="u1236-42.png" crc="23211166" ref="index"/>
-    <file name="u1733.png" crc="299181821" ref="index"/>
-    <file name="u173-r3.png" crc="376219067" ref="index"/>
-    <file name="u1673.png" crc="323089198" ref="index"/>
-    <file name="u167-r3.png" crc="335495963" ref="index"/>
-    <file name="u223-43.png" crc="125124237" ref="index"/>
-    <file name="u217-43.png" crc="3780325577" ref="index"/>
-    <file name="u199-43.png" crc="3866004926" ref="index"/>
-    <file name="u22363.png" crc="377187416" ref="index"/>
-    <file name="u2236-r3.png" crc="4263300140" ref="index"/>
-    <file name="u2729-83.png" crc="3943681023" ref="index"/>
-    <file name="u2734-83.png" crc="149944026" ref="index"/>
-    <file name="u2794-63.png" crc="3876834716" ref="index"/>
-    <file name="u2808-63.png" crc="68464603" ref="index"/>
-    <file name="u2817-63.png" crc="4113038524" ref="index"/>
-    <file name="u253-223.png" crc="107679784" ref="index"/>
-    <file name="u2225-43.png" crc="303235817" ref="index"/>
-    <file name="u121-83.png" crc="3819182503" ref="index"/>
-    <file name="u2743-43.png" crc="525512558" ref="index"/>
-    <file name="u1236-43.png" crc="192022445" ref="index"/>
+    <file name="u5031-3.png" crc="255103159" ref="index"/>
+    <file name="park2614x406.jpg" crc="44855587" seo="true" ref="index"/>
+    <file name="u5031-32.png" crc="3795165796" ref="index"/>
+    <file name="u5031-33.png" crc="3795165796" ref="index"/>
   </folder>
-  <file name="index.html" crc="3996822647" seo="true" mt="1476655336274" redirect="true"/>
+  <file name="index.html" crc="3771779504" seo="true" mt="1478403375100" redirect="true"/>
 </manifest>
