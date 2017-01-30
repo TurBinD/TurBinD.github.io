@@ -1,56 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://turbind.github.io/index.html</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/index.html</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/turbind%20logo%20white%20transparent.png</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/news.html</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/park2.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/untitled-3.html</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/photo-1432821596592-e2c18b78144f.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/facts.html</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/turbind%20example.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/images/photo-1432821596592-e2c18b78144f.jpg</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/ryan.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/images/sprout%20-%20copy.png</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/alex.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/images/tsurbind%20example%20blah.jpg</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/park2614x406.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/assets/easy-parallax.zip</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://turbind.github.io/images/drea.jpg</loc>
-    <lastmod>2016-11-05</lastmod>
+    <loc>http://turbind.com/images/turbind%20logo%20black%20transparent.png</loc>
+    <lastmod>2017-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://turbind.com/images/sprout%20-%20copy330x369.png</loc>
+    <lastmod>2017-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

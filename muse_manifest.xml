@@ -1,33 +1,39 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="turbind.github.io" resolutions="1x" timestamp="1478403385421">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="turbind.com" resolutions="1x" timestamp="1485748525490">
   <folder name="css">
-    <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4153539043" ref="index"/>
-    <file name="nomq_index.css" crc="190984987" ref="index"/>
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3824530138" ref="untitled-3:news:index:facts"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="untitled-3:news:index:facts"/>
+    <file name="untitled-3.css" crc="4193183431" ref="untitled-3"/>
+    <file name="news.css" crc="4193183431" ref="news"/>
+    <file name="index.css" crc="399912293" ref="index"/>
+    <file name="nomq_index.css" crc="3856842651" ref="index"/>
+    <file name="facts.css" crc="4264442150" ref="facts"/>
+  </folder>
+  <folder name="assets">
+    <file name="easy-parallax.zip" crc="4269738517" seo="true" mt="1485748273000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
-    <file name="museutils.js" crc="3851988764" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="169177150" ref="index"/>
-    <file name="pie.js" crc="3831537696" ref="index"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="511146689" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
-    <file name="require.js" crc="4108833657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:facts:untitled-3:news"/>
+    <file name="museutils.js" crc="4148063285" ref="index:facts:untitled-3:news"/>
+    <file name="whatinput.js" crc="86476730" ref="index:facts:untitled-3:news"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:facts:untitled-3:news"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:facts:untitled-3:news"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index:facts:untitled-3:news"/>
   </folder>
   <folder name="images">
-    <file name="turbind example.jpg" crc="4278931100" seo="true" ref="index"/>
-    <file name="turbind logo white transparent.png" crc="393882308" seo="true" ref="index"/>
-    <file name="park2.jpg" crc="383156050" seo="true" ref="index"/>
+    <file name="tsurbind example blah.jpg" crc="70358812" seo="true" ref="index"/>
+    <file name="photo-1432821596592-e2c18b78144f.jpg" crc="4131673545" seo="true" ref="index"/>
+    <file name="sprout - copy.png" crc="533607408" seo="true" ref="index"/>
+    <file name="turbind logo black transparent.png" crc="3891674729" seo="true" ref="index"/>
+    <file name="render - copy-crop-u2270.jpg" crc="428654772" ref="index"/>
+    <file name="turbind logo black transparent-crop-u1890.png" crc="49758508" ref="index"/>
+    <file name="sprout - copy330x369.png" crc="3944798357" seo="true" ref="index"/>
+    <file name="photo-1432821596592-e2c18b78144f-crop-u2180.jpg" crc="3864664732" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="photo-1432821596592-e2c18b78144f.jpg" crc="256200745" seo="true" ref="index"/>
-    <file name="drea.jpg" crc="3854096455" seo="true" ref="index"/>
-    <file name="ryan.jpg" crc="419972543" seo="true" ref="index"/>
-    <file name="alex.jpg" crc="241280752" seo="true" ref="index"/>
-    <file name="u5031-3.png" crc="255103159" ref="index"/>
-    <file name="park2614x406.jpg" crc="44855587" seo="true" ref="index"/>
-    <file name="u5031-32.png" crc="3795165796" ref="index"/>
-    <file name="u5031-33.png" crc="3795165796" ref="index"/>
   </folder>
-  <file name="index.html" crc="3771779504" seo="true" mt="1478403375100" redirect="true"/>
+  <file name="index.html" crc="186372782" seo="true" mt="1485748147145" redirect="true"/>
+  <file name="facts.html" crc="4043200480" seo="true" mt="1485747897090" redirect="true"/>
+  <file name="untitled-3.html" crc="279480764" seo="true" mt="1485747897085" redirect="true"/>
+  <file name="news.html" crc="476418657" seo="true" mt="1485747897085" redirect="true"/>
 </manifest>
